@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e37698a9-6c02-480e-8581-89a04b2b22cc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-    </list>
+    <list default="true" id="e37698a9-6c02-480e-8581-89a04b2b22cc" name="Default" comment="" />
     <ignored path="aprender-rails.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="e37698a9-6c02-480e-8581-89a04b2b22cc" time="1391636850342" ignored="false" />
