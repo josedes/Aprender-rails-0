@@ -3,6 +3,7 @@ AprenderRails::Application.routes.draw do
  # post 'contacto', to: 'contactos#process_form'
 
   resources :contacts, only: [:new, :create]
+  resources :visitors, only: [:new, :create]
   root to: 'visitors#new'
 
   # The priority is based upon order of creation: first created -> highest priority.
